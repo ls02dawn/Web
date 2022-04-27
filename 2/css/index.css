@@ -1,0 +1,170 @@
+@charset "UTF-8";
+
+body {
+	margin: 0;
+}
+
+li {
+	list-style: none;
+}
+
+.m-bk {
+	position: absolute;
+	width: 1064px;
+	height: 544px;
+	background: url('../img/bk.jpg') no-repeat;
+	opacity: .5;
+}
+
+.m-menu {
+	padding: 15px 33px;
+	font-size: 12px;
+	font-weight: bold;
+	letter-spacing: 1.6px;
+	color: #6c6c6c;
+}
+
+.m-menu-item + .m-menu-item {
+	margin-left: 13px;
+}
+
+.content {
+	position: absolute;
+	padding: 27px 33px;
+	font-size: 13px;
+	letter-spacing: 0.13px;
+	color: #6c6c6c;
+}
+
+.content-item {
+	padding-bottom: 150px;
+}
+
+.content_1 {
+	position: absolute;
+	padding: 43.8px 34px;
+	font-size: 18px;
+	letter-spacing: 0.2px;
+	font-weight: bold;
+	color: black;
+}
+
+.content_1-item {
+	padding-bottom: 147px;
+}
+
+.content_2 {
+	position: absolute;
+	padding: 75px 33px;
+	font-size: 13.4px;
+	letter-spacing: 0.2px;
+	color: #6c6c6c;
+}
+
+.content_2-item {
+	padding-bottom: 152px;
+}
+
+.author {
+	position: absolute;
+	padding: 108.5px 34px;
+	font-size: 12px;
+	letter-spacing: 0px;
+	color: black;
+}
+
+.author-item {
+	padding-bottom: 156px;
+}
+
+.date {
+	position: absolute;
+	padding: 128px 34px;
+	font-size: 12.3px;
+	letter-spacing: 0.1px;
+	color: #6c6c6c;
+}
+
+.date-item {
+	padding-bottom: 155px;
+}
+
+.right {
+	position: absolute;
+	padding: 57.2px 770px;
+	font-size: 18.6px;
+	letter-spacing: 0.0px;
+	font-weight: bold;
+	color: black;
+	white-space: nowrap;
+}
+
+.right_1 {
+	position: absolute;
+	padding: 134px 815px;
+	font-size: 14px;
+	letter-spacing: 0.0px;
+	font-weight: bold;
+	color: black;
+	white-space: nowrap;
+}
+
+.right_1-item {
+	padding-bottom: 73px;
+}
+
+.right_author {
+	position: absolute;
+	padding: 200px 816.5px;
+	font-size: 12px;
+	letter-spacing: 0.0px;
+	color: black;
+	white-space: nowrap;
+}
+
+.right_author-item {
+	padding-bottom: 111px;
+}
+
+.right_author_2 {
+	position: absolute;
+	padding: 437px 818px;
+	font-size: 12px;
+	letter-spacing: 0.0px;
+	color: black;
+	white-space: nowrap;
+}
+
+.right_date {
+	position: absolute;
+	padding: 219px 815px;
+	font-size: 12.5px;
+	letter-spacing: 0.0px;
+	color: #6c6c6c;
+	white-space: nowrap;
+}
+
+.right_date-item {
+	padding-bottom: 113px;
+}
+
+.right_date_2 {
+	position: absolute;
+	padding: 457px 815px;
+	font-size: 12.5px;
+	letter-spacing: 0.0px;
+	color: #6c6c6c;
+	white-space: nowrap;
+}
+
+.number {
+	position: absolute;
+	padding: 132px 772px;
+	font-size: 22px;
+	letter-spacing: 0.0px;
+	color: #c9c9c9;
+}
+
+.number-item {
+	padding-bottom: 99px;
+}
